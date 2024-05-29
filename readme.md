@@ -9,7 +9,7 @@
     <img src="./assets/img/Untitled design (28).png" alt="Nyebe" width="1000" height="400">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Seatwork 2</h3>
+  <h3 align="center">Midterms</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
@@ -55,21 +55,6 @@
 
 ## Instructions
 
-<!-- TODO: To be changed -->
-<!-- The following are just sample -->
-Description on how to do the Seatwork 2 in details.
-
-1. Select from Pinterest/Behance or any website that provides a complete 1 page design of website/landing page
-(full website - must consist of header, footer and some sections) 
-
-2. Create a wireframe of the website, document it same as seatwork 1
-
-3. Formulate Emmet Codes to implement making the coding faster
-4. Create a github repository(duplicate the template) and do some practice code for checking of your emmet code
-(Repository should kept empty until next meeting)
-note: add the documentation in the github repository created in step 3 and 4
-5. Submit the repository link
-(in the url of same as this, is what you call a repo link. since the site is the repository of the project)
 
 ### Key Components
 <!-- TODO: List of Key Components -->
